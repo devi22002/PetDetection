@@ -14,7 +14,7 @@ Kelompok 6 Artificial Intelligence 2024
     <li><a href="#anggota-tim">Anggota Tim</a></li>
     <li><a href="#latar-belakang">Latar Belakang</a></li>
     <li><a href="#tujuan-dan-manfaat">Tujuan dan Manfaat</a></li>
-    <li><a href="#penjelasan-aplikasi">Penjelasan Aplikasi</a></li>
+    <li><a href="#penjelasan-aplikasi">Penjelasan Program</a></li>
     <li><a href="#rencana-pengerjaan-proyek">Rencana Pengerjaan Proyek</a></li>
     <li><a href="#lisensi">Lisensi</a></li>
   </ol>
@@ -41,7 +41,7 @@ Di era digital ini, banyak orang yang memiliki hewan peliharaan dan memanfaatkan
 ## Tujuan dan Manfaat
 
 Tujuan :
-1. Mengembangkan program berbasis AI yang dapat mendeteksi dan mengenali hewan peliharaan seperti anjing, kucing, dan kelinci dari gambar menggunakan YOLOv5.
+1. Mengembangkan program berbasis AI yang dapat mendeteksi dan mengenali hewan peliharaan seperti anjing, kucing dari gambar menggunakan YOLOv5.
 2. Output dari sistem ini akan berupa informasi hewan peliharaan yang terdeteksi dan ditampilkan dalam bentuk visual dan tekstual.
 3. Membuat program yang mudah diimplementasikan dan digunakan oleh pengguna dengan berbagai tingkat keahlian teknis.
 
