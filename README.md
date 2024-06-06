@@ -14,6 +14,7 @@ Kelompok 6 Praktikum Artificial Intelligence 2024
     <li><a href="#latar-belakang">Latar Belakang</a></li>
     <li><a href="#tujuan-dan-manfaat">Tujuan dan Manfaat</a></li>
     <li><a href="#penjelasan-aplikasi">Penjelasan Aplikasi</a></li>
+    <li><a href="#alasan-penggunaan-yolov5">Alasan Penggunaan YOLOv5</a></li>
     <li><a href="#rencana-pengerjaan-proyek">Rencana Pengerjaan Proyek</a></li>
     <li><a href="#lisensi">Lisensi</a></li>
   </ol>
