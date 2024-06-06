@@ -2,7 +2,7 @@
 Kelompok 6 Praktikum Artificial Intelligence 2024
 <p align="center">
   <h2 align="center">
-    Kecerdasan Buatan Pendeeteksi Hewan
+    Cat and Dog Detection
   </h2>
 </p>
 
