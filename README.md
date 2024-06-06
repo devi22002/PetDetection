@@ -95,7 +95,7 @@ Untuk pelaksanaan proyek ini kami mempersiapkan beberapa rencana:
 
 1. Membuat grup koordinasi di platform WhatsApp untuk saling mengabarkan progress
 
-2. Membagi jobdesk tiap anggota
+2. Membagi jobdesc tiap anggota
 
 3. Melakukan meet di Discord/luring untuk mengerjakan bersama
 
