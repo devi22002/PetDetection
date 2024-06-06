@@ -44,17 +44,16 @@ Tujuan :
 2. Output dari sistem ini akan berupa informasi hewan peliharaan yang terdeteksi dan ditampilkan dalam bentuk visual dan tekstual.
 3. Membuat program yang mudah diimplementasikan dan digunakan oleh pengguna dengan berbagai tingkat keahlian teknis.
 
-Manfaat :
-1. Bagi Pemilik hewan: Memudahkan Pemilik Hewan Peliharaan dalam mendeteksi hewan peliharaannya
-2. Pengembangan Keterampilan Teknis: Meningkatkan pemahaman dan keterampilan dalam pengembangan aplikasi AI dan deep learning, khususnya dalam menggunakan model YOLOv5.
-3. Inovasi dan Kreativitas: Mendorong inovasi dan kreativitas dalam menciptakan solusi baru untuk masalah yang ada, serta mengembangkan aplikasi praktis yang dapat digunakan dalam kehidupan sehari-hari.
-4. Menambah Pengetahuan dan Pengembangan Kode Baru: Memperluas wawasan dan pengetahuan teknis melalui eksplorasi dan implementasi algoritma baru, serta mendorong pengembangan kode yang lebih efisien dan efektif untuk berbagai aplikasi.
+Manfaat Bagi Pembuat Program:
+1. Meningkatkan pemahaman dan keterampilan dalam pengembangan aplikasi AI dan deep learning, khususnya dalam menggunakan model YOLOv5.
+2. Mendorong inovasi dan kreativitas dalam menciptakan solusi baru untuk masalah yang ada, serta mengembangkan aplikasi praktis yang dapat digunakan dalam kehidupan sehari-hari.
+3. Memperluas wawasan dan pengetahuan teknis melalui eksplorasi dan implementasi algoritma baru, serta mendorong pengembangan kode yang lebih efisien dan efektif untuk berbagai aplikasi.
 
 <!-- Penjelasan Aplikasi -->
 ## Penjelasan Program
 Sebagai anak kuliah, banyak yang memiliki hewan peliharaan atau minat terhadap hewan peliharaan. Dengan mengembangkan program deteksi kucing dan anjing dapat mengaplikasikan pengetahuan dan minat dalam dunia teknologi dan komputer untuk menciptakan sesuatu yang praktis dan bermanfaat dalam kehidupan sehari-hari. 
 
-Aplikasi ini memanfaatkan teknologi machine learning, sebagai berikut.
+Program ini memanfaatkan teknologi machine learning, sebagai berikut.
 1. Convolutional Neural Network (CNN):
    Digunakan untuk deteksi dan klasifikasi gambar objek hewan peliharaan.
 
@@ -64,7 +63,10 @@ Aplikasi ini memanfaatkan teknologi machine learning, sebagai berikut.
 3. TensorFlow/Keras:
    Framework untuk membangun dan melatih model machine learning.
 
-4. Python:
+4. PyTorch:
+   Framework untuk menggunakan YOLOv5
+
+6. Python:
    Bahasa pemrograman utama yang digunakan untuk pengembangan aplikasi.
 
 Proyek ini memberikan kesempatan untuk belajar dan meningkatkan keterampilan dalam bidang pemrosesan gambar, pembelajaran mendalam, dan visi komputer dan kecerdasan buatan. Dengan mengerjakan proyek ini, kita dapat mendapatkan pengalaman praktis yang berharga dan memperluas pemahaman tentang konsep-konsep penting dalam bidang AI.
@@ -74,7 +76,7 @@ Alasan menggunakan YOLOv5:
 1. Kecepatan dan Efisiensi Real-time:
    YOLOv5 dirancang untuk kecepatan dan efisiensi, memungkinkan deteksi objek dalam gambar atau video secara real-time. Ini sangat penting untuk aplikasi yang membutuhkan respons cepat, seperti pengawasan video atau aplikasi interaktif yang memerlukan deteksi hewan peliharaan.
    
-3. Akurasi Tinggi
+2. Akurasi Tinggi
    :YOLOv5 telah terbukti memberikan akurasi yang tinggi dalam mendeteksi berbagai objek, termasuk kucing dan anjing. Model ini mampu mendeteksi dan mengklasifikasikan objek dengan baik, bahkan dalam kondisi pencahayaan yang buruk atau latar belakang yang rumit.
    
 3. Kemampuan Deteksi Multi-Objek:
