@@ -1,4 +1,5 @@
-# PetDetection
+# Cat and Dog Detection
+Praktikum Kelas A
 Kelompok 6 Praktikum Artificial Intelligence 2024
 <p align="center">
   <h2 align="center">
