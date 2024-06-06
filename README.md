@@ -14,7 +14,6 @@ Kelompok 6 Praktikum Artificial Intelligence 2024
     <li><a href="#latar-belakang">Latar Belakang</a></li>
     <li><a href="#tujuan-dan-manfaat">Tujuan dan Manfaat</a></li>
     <li><a href="#penjelasan-aplikasi">Penjelasan Aplikasi</a></li>
-    <li><a href="#alasan-penggunaan-yolov5">Alasan Penggunaan YOLOv5</a></li>
     <li><a href="#rencana-pengerjaan-proyek">Rencana Pengerjaan Proyek</a></li>
     <li><a href="#lisensi">Lisensi</a></li>
   </ol>
@@ -70,8 +69,7 @@ Aplikasi ini memanfaatkan teknologi machine learning, sebagai berikut.
 
 Proyek ini memberikan kesempatan untuk belajar dan meningkatkan keterampilan dalam bidang pemrosesan gambar, pembelajaran mendalam, dan visi komputer dan kecerdasan buatan. Dengan mengerjakan proyek ini, kita dapat mendapatkan pengalaman praktis yang berharga dan memperluas pemahaman tentang konsep-konsep penting dalam bidang AI.
 
-<!-- Alasan Penggunaan YOLOv5 -->
-## Alasan Penggunaan YOLOv5
+Alasan menggunakan YOLOv5:
 
 1. Kecepatan dan Efisiensi Real-time:
    YOLOv5 dirancang untuk kecepatan dan efisiensi, memungkinkan deteksi objek dalam gambar atau video secara real-time. Ini sangat penting untuk aplikasi yang membutuhkan respons cepat, seperti pengawasan video atau aplikasi interaktif yang memerlukan deteksi hewan peliharaan.
