@@ -64,7 +64,7 @@ Program ini memanfaatkan teknologi machine learning, sebagai berikut.
    Framework untuk membangun dan melatih model machine learning.
 
 4. YOLOv5:
-   YOLOv5 merupakan salah satu dari keluarga model deteksi objek real-time YOLO (You Only Look Once). YOLOv5 diketahui memiliki performa yang sangat baik dalam mendeteksi objek dalam gambar dan video dengan cepat dan akurat.
+   Merupakan salah satu dari keluarga model deteksi objek real-time YOLO (You Only Look Once). YOLOv5 diketahui memiliki performa yang sangat baik dalam mendeteksi objek dalam gambar dan video dengan cepat dan akurat.
 
 5. Matplotlib:
    Matplotlib adalah library Python yang digunakan untuk membuat visualisasi data seperti grafik, plot, histogram, dan lainnya. Dalam konteks ini, Matplotlib bisa digunakan untuk menampilkan hasil prediksi dari model deteksi objek pada gambar atau video, serta untuk memvisualisasikan performa model dalam proses pelatihan (misalnya, grafik loss dan akurasi).
