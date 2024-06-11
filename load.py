@@ -1,5 +1,5 @@
-import cv2  # Mengimpor pustaka OpenCV
-import torch  # Mengimpor pustaka PyTorch
+import cv2  # Mengimpor pustaka OpenCV memproses gambar dan video
+import torch  # Mengimpor pustaka PyTorch pembelajaran mesin dan inferensi model
 
 # Memuat model YOLOv5
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
@@ -11,7 +11,7 @@ else:  # Jika model.names adalah list
     class_names = model.names  # Gunakan langsung list dari model.names
 
 # Memfilter kelas untuk 'dog' dan 'cat'
-cat_dog_class_ids = [class_names.index('dog'), class_names.index('cat')]  # Dapatkan indeks kelas 'dog' dan 'cat'
+cat_dog_class_ids = [class_names.index('dog'), class_names.index('cat')]  
 
 # Inisialisasi video capture (0 untuk kamera default)
 cap = cv2.VideoCapture(0)  # Buka koneksi ke kamera default
@@ -19,7 +19,7 @@ cap = cv2.VideoCapture(0)  # Buka koneksi ke kamera default
 while cap.isOpened():  # Loop berjalan selama kamera terbuka
     ret, frame = cap.read()  # Membaca frame dari kamera
     if not ret:  # Jika frame tidak berhasil dibaca, keluar dari loop
-        break  # Keluar dari loop
+        break  
 
     # Melakukan inferensi
     results = model(frame)  # Melakukan inferensi pada frame
@@ -39,8 +39,8 @@ while cap.isOpened():  # Loop berjalan selama kamera terbuka
     cv2.imshow('YOLOv5 Real-Time Detection', frame)  # Menampilkan frame yang telah diproses
 
     # Hentikan loop jika tombol 'q' ditekan
-    if cv2.waitKey(1) & 0xFF == ord('q'):  # Menunggu 1 ms untuk input kunci dan memeriksa apakah tombol 'q' ditekan
-        break  # Keluar dari loop
+    if cv2.waitKey(1) & 0xFF == ord('q'):  
+        break  
 
 # Melepaskan objek video capture dan menutup jendela tampilan
 cap.release()  # Menutup koneksi ke kamera
