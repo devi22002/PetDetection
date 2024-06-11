@@ -66,11 +66,8 @@ Program ini memanfaatkan teknologi machine learning, sebagai berikut.
 
 4. YOLOv5:
    Merupakan salah satu dari keluarga model deteksi objek real-time YOLO (You Only Look Once). YOLOv5 diketahui memiliki performa yang sangat baik dalam mendeteksi objek dalam gambar dan video dengan cepat dan akurat.
-
-5. Matplotlib:
-   Matplotlib adalah library Python yang digunakan untuk membuat visualisasi data seperti grafik, plot, histogram, dan lainnya. Dalam konteks ini, Matplotlib bisa digunakan untuk menampilkan hasil prediksi dari model deteksi objek pada gambar atau video, serta untuk memvisualisasikan performa model dalam proses pelatihan (misalnya, grafik loss dan akurasi).
-
-6. Python:
+   
+5. Python:
    Bahasa pemrograman utama yang digunakan untuk pengembangan aplikasi.
 
 Proyek ini memberikan kesempatan untuk belajar dan meningkatkan keterampilan dalam bidang pemrosesan gambar, pembelajaran mendalam, dan visi komputer dan kecerdasan buatan. Dengan mengerjakan proyek ini, kita dapat mendapatkan pengalaman praktis yang berharga dan memperluas pemahaman tentang konsep-konsep penting dalam bidang AI.
