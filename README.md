@@ -61,13 +61,10 @@ Program ini memanfaatkan teknologi machine learning, sebagai berikut.
 2. OpenCV:
    Library untuk pemrosesan gambar dan video.
 
-3. TensorFlow/Keras:
-   Framework untuk membangun dan melatih model machine learning.
-
-4. YOLOv5:
+3. YOLOv5:
    Merupakan salah satu dari keluarga model deteksi objek real-time YOLO (You Only Look Once). YOLOv5 diketahui memiliki performa yang sangat baik dalam mendeteksi objek dalam gambar dan video dengan cepat dan akurat.
-   
-5. Python:
+
+4. Python:
    Bahasa pemrograman utama yang digunakan untuk pengembangan aplikasi.
 
 Proyek ini memberikan kesempatan untuk belajar dan meningkatkan keterampilan dalam bidang pemrosesan gambar, pembelajaran mendalam, dan visi komputer dan kecerdasan buatan. Dengan mengerjakan proyek ini, kita dapat mendapatkan pengalaman praktis yang berharga dan memperluas pemahaman tentang konsep-konsep penting dalam bidang AI.
